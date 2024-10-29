@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "yo",
+        "description": "yo",
+        "author": "mp_user",
+        "status": "Voting Closed",
+        "amendments": []
+    },
+    {
+        "id": 2,
+        "title": "2nd",
+        "description": "2nd bill",
+        "author": "mp_user",
+        "status": "Voting Closed",
+        "amendments": []
+    }
+]

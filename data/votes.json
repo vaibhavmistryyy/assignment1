@@ -1,0 +1,67 @@
+[
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 1,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 2,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 2,
+        "user": "mp_user",
+        "vote": "For"
+    },
+    {
+        "bill_id": 2,
+        "user": "mp_user",
+        "vote": "For"
+    }
+]
